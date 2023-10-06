@@ -1,0 +1,2 @@
+# react-debulog
+ react-debulog is a versatile and customizable logging library designed for React applications. It offers a set of functions for logging messages, warnings, errors, and custom messages to the console, complete with various styling options. With react-debulog, you can effortlessly enhance the debugging and logging capabilities of your React projects, simplifying the process of identifying and resolving issues within your application.

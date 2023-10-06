@@ -129,8 +129,6 @@ If you would like to contribute to this project, please follow the [Contribution
    ``
    ```
 
-```
-
 # Support Our Project
 
 <!--
@@ -155,4 +153,7 @@ Every donation, no matter how small, makes a significant impact on our project. 
 ## License
 
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License - see the LICENSE file for details.
+
+```
+
 ```

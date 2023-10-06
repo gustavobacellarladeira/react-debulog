@@ -1,6 +1,6 @@
 {
   "name": "react-debulog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react-debulog - A flexible React logging library. Customize and style logs for efficient debugging in your React applications.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
